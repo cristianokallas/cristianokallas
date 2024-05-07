@@ -1,5 +1,5 @@
-<h2>**Olá pessoal!**</h2> <br>
-<h2>**Eu sou Cristiano**</h2>
+<h2> **Olá pessoal!** </h2> <br>
+<h2> **Eu sou Cristiano** </h2>
 <div>  
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianokallas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianokallas&layout=compact&langs_count=16&theme=great-gatsby"/>
