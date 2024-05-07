@@ -1,8 +1,8 @@
 **Olá pessoal!** <br>
 **Eu sou Cristiano**
 <div>  
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=cristianokallas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianokallas&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianokallas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianokallas&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -16,7 +16,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   </div>
+   </div> <br>
     
   
    <h1>📨 Vamos trocar uma ideia? </h1> 
