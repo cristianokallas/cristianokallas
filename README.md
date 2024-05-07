@@ -19,7 +19,7 @@
    </div>
     
   
-   <h3>📨 Vamos trocar uma ideia? </h3> 
+   <h1>📨 Vamos trocar uma ideia? </h1> 
 
   <a href="mailto:devengkallas@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
